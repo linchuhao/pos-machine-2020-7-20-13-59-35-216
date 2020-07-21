@@ -70,3 +70,5 @@ Suppose that our database is as follows:
 2. Please declare all the methods according to your diagram.
 3. Please implement the function according to the context diagram
 4. Please repeat step 3 until all functions are implemented.
+
+这个project耗费了我自己很多时间，哎，还是自己太菜了，今后要养成写tasking 和画 context diagram 的习惯。
